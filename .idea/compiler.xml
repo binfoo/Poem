@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="poem" />
+        <module name="springboot-shiro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="poem" target="1.5" />
+      <module name="springboot-shiro" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/poem.iml" filepath="$PROJECT_DIR$/poem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
     </modules>
   </component>
 </project>
